@@ -16,4 +16,7 @@ This Python tool checks the strength of a user-entered password based on its len
 2. Enter a password when prompted.
 3. View the strength result in the terminal.
 
+## 📸 Preview
+![Task List Preview](./preview.png)
+
 ---
